@@ -1,6 +1,11 @@
 import java.util.Random;
 import java.util.Scanner;
 
+// Student:		Daniel Cutrara
+// Class:		CST-105
+// Date:		11/04/2018
+// Instructor:	Dennis Atawia
+// This is my own work.
 
 public class GuessingGame 
 {
